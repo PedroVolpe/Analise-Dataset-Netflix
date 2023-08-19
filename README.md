@@ -40,5 +40,7 @@ Lucas Goulart de Farias Meres
 
 Oliver Kieran Galvão McCormack   
 
-Renan Tagliaferro                   
+Renan Tagliaferro    
+
+Thiago Leandro Liporace
    
