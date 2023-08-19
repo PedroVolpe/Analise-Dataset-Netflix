@@ -32,9 +32,13 @@ Funcionalidades do Projeto:
  - Salvar no arquivo
 
 By: 
-Pedro Loureiro Morone Branco Volpe  (me)
-Eric Akio Uchiyamada              
-Lucas Goulart de Farias Meres     
-Oliver Kieran Galvão McCormack      
+Pedro Loureiro Morone Branco Volpe (me)
+
+Eric Akio Uchiyamada        
+
+Lucas Goulart de Farias Meres  
+
+Oliver Kieran Galvão McCormack   
+
 Renan Tagliaferro                   
    
