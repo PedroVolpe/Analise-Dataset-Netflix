@@ -1,0 +1,12 @@
+1- As 5 melhores notas imdb de filmes de um gênero
+
+2- Porcentagem de cada gênero existente
+
+3- Quantos filmes/séries há  abaixo de certa classificação indicativa
+
+4- Porcentagem entre filmes e séries de um certo ano
+
+5- Comparar( mostrar a diferença das medias entre os scores ) da imdb(critica) com o tmdb(publico) de um em especifico [pelo ID] 
+ou todos [série e filme]
+
+6- Top 5 séries mais populares segundo a popularidade tmdb
